@@ -10,6 +10,8 @@ In Part 4, we will be building a regression model of acetylcholinesterase inhibi
 
 In Part 5, we will be comparing several ML algorithms for build regression models of acetylcholinesterase inhibitors.
 
+Further Improvement: Will be hosting the web application
+
 end result:
 
 <img width="960" alt="b1" src="https://user-images.githubusercontent.com/53869398/167252572-1d766064-5d62-43e7-a4fa-0f5ff52fa0ce.PNG">
